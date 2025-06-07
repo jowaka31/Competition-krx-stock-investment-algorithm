@@ -2,7 +2,7 @@
 
 # 제 2회 한국거래소 알고리즘 주식투자 대회
 
-[English Version](README_en.md)
+[English Version](README.en.md)
 
 ## 주관
 - **한국거래소**
